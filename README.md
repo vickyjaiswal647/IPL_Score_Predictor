@@ -1,5 +1,7 @@
 
 # IPL_Score_Predictor
+* This is a machine learning project which can be used to predict the score of the first innings of IPL cricket match. 
+* This can be used to predict the scores of the first innings based on batting team,bowling team,current runs,current wickets,current overs,runs scored in last 5 overs, and number of wickets in last 5 overs.
 # Dataset
 ### First inning ball to ball coverage of : 
 * IPL matches -> data/IPL_Data.csv
